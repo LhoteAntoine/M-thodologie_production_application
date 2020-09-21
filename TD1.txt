@@ -1,0 +1,18 @@
+
+
+
+
+1) fatal: not a git repository (or any of the parent directories): .git
+2) On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        tables.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+3) il dit qui est add dans le disque local
+4) il dit qu'il est bien commit dans le répository 
+5) stat te donne les lignes de chaque commit il est plus précis
